@@ -695,6 +695,822 @@ export default function HomeScreen() {
         }
       ],
     },
+    {
+        idCategory: "3",
+        idFood:'15',
+        recipeInstructions:"For those new to affogato, it’s a traditional Italian coffee-dessert where hot espresso is poured over gelato or ice cream, with the option of adding a splash of liquor. It’s coffee, dessert, and an after-dinner drink, all rolled into one ",
+        category:'Dessert',
+        recipeName: "Affogato",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2023/06/Affogato_0.jpg?resize=900%2C1125&zoom=0.72",
+        recipeId: "dessert_1",
+        recipeCategory: "Dessert",
+        recipeOrigin: "Italian",
+        cookingDescription: " Brew hot espresso using your coffee making appliance of choice. That’s 30 ml/1 ounce for a single shot.Put a scoop or two of ice cream in a glass.Pour over hot coffee. Enjoy watching the ice cream swirls melting into the hot coffee!If using liquor, pour that over next. Eat!",
+        recipeTags: "espresso",
+        ingredients: [
+          {
+            ingredientName: "vanilla gelato or ice cream",
+            measure: " 1 large or 2 small"
+          },
+          {
+            ingredientName: " hot espresso coffee ",
+            measure: "1 tbsp"
+          },
+          {
+            ingredientName: " frangelico, amaretto or other liquo",
+            measure: "1 tbsp"
+          },
+           {
+            ingredientName: "",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "3",
+        idFood:'16',
+        recipeInstructions:"Chocolate muffins are not all created equal. I’m fussy about mine and make no apologies about it – there are a lot of calories in a muffin, so every one of them better be worth it!  ",
+        category:'Dessert',
+        recipeName: "Chocolate Muffins",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2021/08/Chocolate-Muffins_14.jpg?resize=900%2C1125&zoom=0.72",
+        recipeId: "dessert_2",
+        recipeCategory: "Dessert",
+        recipeOrigin: "American",
+        cookingDescription: " 1 egg rather than the usual 2 eggs;Brown sugar instead of white sugar;Oil instead of butter;Sour cream instead of milk;Coffee to enhance chocolate flavour (optional);Dutch-process cocoa powder for more intense chocolate flavour (optional);Blooming the cocoa powder with hot milk;Thinner batter than the usual muffin batters; and Briefly bake on a high temperature then lower temperature to finish!",
+        recipeTags: "Muffin",
+        ingredients: [
+          {
+            ingredientName: "plain flour (all-purpose flour) ",
+            measure: " 1 3/4 cups"
+          },
+          {
+            ingredientName: "baking soda / bi-carb",
+            measure: "1 1/4 tsp"
+          },
+          {
+            ingredientName: " salt",
+            measure: "1/2 tsp "
+          },
+           {
+            ingredientName: "instant coffee granules / powder",
+            measure: "1 tbsp "
+          },
+          {
+            ingredientName: "milk",
+            measure: "3/4 cup "
+          }
+        ],
+      },
+      {
+        idCategory: "3",
+        idFood:'17',
+        recipeInstructions:"Dice the flesh of the mango (see video for how I do it). Puree using a blender, food processor or stick blender then measure out 2 cups of mango puree (about 2 1/4 cups of diced mango).Pour puree into a non stick skillet over medium low heat. Cook, stirring constantly, for 8 - 10 minutes or until it reduces by half. The test is when you can drag a wooden spoon across the skillet and the path remains there for a second (see video). Or measure out the puree to ensure it's reduced to at least 1 cup - less is even better!Cool pureeIce Cream Combine cooled mango and condensed milk in a bowl. Add food colouring if using. Whisk until combined.Beat cream with a hand held beater or stand mixer until stiff peaks form (see video).Take a scoop of cream and put it in the mango mixture. Fold through until mostly combined - lumps is fine (this is just to lighten it up a bit).Then pour the mango mixture into the cream. Fold through (see video) rather than mixing vigorously like you would cake batter, until lump free. This wll take a few minutes.Pour into a container (preferably with a lid). I recommend glass, if you can, or other non reactive container.Place a piece of baking / parchment paper on the surface. Then place lid on or using cling wrap.Freeze for 12+ hours.Remove parchment paper. Stand for 5 minutes to soften slightly, then scoop and serve!If frozen for 24 hours or longer, it will need a couple of extra minutes to soften to a scoop able consistency. ",
+        category:'Dessert',
+        recipeName: "Homemade Mango Ice Cream Recipe",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2017/02/Mango-Ice-Cream-10.jpg?resize=1200%2C1680&zoom=0.67",
+        recipeId: "dessert_3",
+        recipeCategory: "Dessert",
+        recipeOrigin: "China",
+        cookingDescription: " Dice the flesh of the mango (see video for how I do it). Puree using a blender, food processor or stick blender then measure out 2 cups of mango puree (about 2 1/4 cups of diced mango).Pour puree into a non stick skillet over medium low heat. Cook, stirring constantly, for 8 - 10 minutes or until it reduces by half. The test is when you can drag a wooden spoon across the skillet and the path remains there for a second (see video). Or measure out the puree to ensure it's reduced to at least 1 cup - less is even better!Cool pureeIce Cream Combine cooled mango and condensed milk in a bowl. Add food colouring if using. Whisk until combined.Beat cream with a hand held beater or stand mixer until stiff peaks form (see video).Take a scoop of cream and put it in the mango mixture. Fold through until mostly combined - lumps is fine (this is just to lighten it up a bit).Then pour the mango mixture into the cream. Fold through (see video) rather than mixing vigorously like you would cake batter, until lump free. This wll take a few minutes.Pour into a container (preferably with a lid). I recommend glass, if you can, or other non reactive container.Place a piece of baking / parchment paper on the surface. Then place lid on or using cling wrap.Freeze for 12+ hours.Remove parchment paper. Stand for 5 minutes to soften slightly, then scoop and serve!If frozen for 24 hours or longer, it will need a couple of extra minutes to soften to a scoop able consistency.",
+        recipeTags: "Ice-Cream",
+        ingredients: [
+          {
+            ingredientName: " mangoes",
+            measure: " 2 Large"
+          },
+          {
+            ingredientName: "sweetened condensed milk",
+            measure: "395 g / 14 oz"
+          },
+          {
+            ingredientName: "thickened cream / heavy cream / whipping cream",
+            measure: "2 cups"
+          },
+           {
+            ingredientName: " yellow liquid food colouring",
+            measure: " 1tbsp"
+          }
+        ],
+      },
+      {
+        idCategory: "3",
+        idFood:'18',
+        recipeInstructions:"Preheat oven to 160C/320F (all oven types).Spray a 20cm/9square tin with oil and line with baking/parchment paper with overhang (so it can be lifted out once cooked).Place biscuits in a food processor and blitz until fine crumbs form. Add butter and sugar and blitz to combine - it should look like wet sand. (Note 1)Pour into tin and use something with a flat bottom to press into base. ",
+        category:'Dessert',
+        recipeName: "Blueberry Cheesecake Bars",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2016/10/Blueberry-Cheesecake-Bars-No-Bake-26.jpg?resize=1200%2C857&zoom=0.54",
+        recipeId: "dessert_4",
+        recipeCategory: "Dessert",
+        recipeOrigin: "Australia",
+        cookingDescription: " Australia! Blueberries are so crazy cheap at the moment, and I absolutely promise you, Blueberry Cheesecake is a spectacular way to use them!!! Creamy cheesecake with soft bursts of blueberry on a buttery biscuit base….just pure heaven.❤️",
+        recipeTags: "Bluberry",
+        ingredients: [
+          {
+            ingredientName: "blueberries ",
+            measure: "2 cups "
+          },
+          {
+            ingredientName: " cream cheese",
+            measure: "250g"
+          },
+          {
+            ingredientName: "sour cream",
+            measure: "200g"
+          },
+           {
+            ingredientName: "unsalted butter ",
+            measure: "150g"
+          }
+        ],
+      },
+      {
+        idCategory: "4",
+        idFood:'19',
+        recipeInstructions:"Cook – Heat 1 tbsp oil in a large non stick pan over medium high heat. Cook half the koftas for 2 minutes on each side until golden, then about 30 seconds on each short edge (just for a bit of colour). Reduce the heat if they’re browning too fast. Transfer to a serving plate, loosely cover with foil to keep warm. Cook the remaining koftas. (Scrape out loose burnt bits, if any. You shouldn’t need extra oil.) ",
+        category:'Lamb',
+        recipeName: "Greek Kofta Kebabs",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2024/08/Greek-lamb-kofta-kebabs_6.jpg?resize=1200%2C1500&zoom=0.54",
+        recipeId: "lamb_1",
+        recipeCategory: "Lamb",
+        recipeOrigin: "greek",
+        cookingDescription: " Making kofta kebab wraps – This is how I make the wraps. There’s a very specific order! Firstly, spread sauce down the middle of the pita bread / flatbread. Top with lettuce – the sauce will glue it in place. Then place 2 koftas on top (remove the skewers). Well, I’m greedy so I use 2. If you’re not, you can use 1.",
+        recipeTags: "lamb kebab",
+        ingredients: [
+          {
+            ingredientName: " lamb mince",
+            measure: " 500g"
+          },
+          {
+            ingredientName: "garlic cloves",
+            measure: "3"
+          },
+          {
+            ingredientName: "olive oil",
+            measure: "200ml"
+          },
+           {
+            ingredientName: "Peprika",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "4",
+        idFood:'20',
+        recipeInstructions:"Cook – Heat 1 tbsp oil in a large non stick pan over medium high heat. Cook half the koftas for 2 minutes on each side until golden, then about 30 seconds on each short edge (just for a bit of colour). Reduce the heat if they’re browning too fast. Transfer to a serving plate, loosely cover with foil to keep warm. Cook the remaining koftas. (Scrape out loose burnt bits, if any. You shouldn’t need extra oil.) ",
+        category:'Lamb',
+        recipeName: "Mongolian Lamb",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2020/08/Mongolian-lamb_9.jpg?resize=900%2C1260&zoom=0.72",
+        recipeId: "lamb_2",
+        recipeCategory: "Lamb",
+        recipeOrigin: "Mongolian",
+        cookingDescription: " Making kofta kebab wraps – This is how I make the wraps. There’s a very specific order! Firstly, spread sauce down the middle of the pita bread / flatbread. Top with lettuce – the sauce will glue it in place. Then place 2 koftas on top (remove the skewers). Well, I’m greedy so I use 2. If you’re not, you can use 1.",
+        recipeTags: "lamb kebab",
+        ingredients: [
+          {
+            ingredientName: " lamb mince",
+            measure: " 500g"
+          },
+          {
+            ingredientName: "garlic cloves",
+            measure: "3"
+          },
+          {
+            ingredientName: "olive oil",
+            measure: "200ml"
+          },
+           {
+            ingredientName: "butter",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "4",
+        idFood:'21',
+        recipeInstructions:"Cook – Heat 1 tbsp oil in a large non stick pan over medium high heat. Cook half the koftas for 2 minutes on each side until golden, then about 30 seconds on each short edge (just for a bit of colour). Reduce the heat if they’re browning too fast. Transfer to a serving plate, loosely cover with foil to keep warm. Cook the remaining koftas. (Scrape out loose burnt bits, if any. You shouldn’t need extra oil.) ",
+        category:'Lamb',
+        recipeName: "Rosemary Garlic Marinated Rack of Lamb (Roasted)",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2021/03/Herb-Garlic-Rack-of-Lamb_7.jpg?resize=900%2C1260&zoom=0.72",
+        recipeId: "lamb_3",
+        recipeCategory: "Lamb",
+        recipeOrigin: "Spain",
+        cookingDescription: " Making wraps – This is how I make the wraps. There’s a very specific order! Firstly, spread sauce down the middle of the pita bread / flatbread. Top with lettuce – the sauce will glue it in place. Then place 2 koftas on top (remove the skewers). Well, I’m greedy so I use 2. If you’re not, you can use 1.",
+        recipeTags: "lamb kebab",
+        ingredients: [
+          {
+            ingredientName: " lamb ribs",
+            measure: " 500g"
+          },
+          {
+            ingredientName: "garlic cloves",
+            measure: "3"
+          },
+          {
+            ingredientName: "olive oil",
+            measure: "200ml"
+          },
+           {
+            ingredientName: " fresh rosemary",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "5",
+        idFood:'22',
+        recipeInstructions:" Making black bean and corn salsa only requires a little chopping and mixing. It truly couldn’t get any simpler! Below, find a quick hitter overview of the recipe before you dive in.n/Dice the Veggies: Using a sharp knife, dice all the veggies into similar-sized pieces, slice the cherry tomatoes into halves, and remove the corn kernels from the cob. Place all the ingredients into a large bowl.",
+        category:'Miscellaneous',
+        recipeName: "Black Bean and Corn Salsa Recipe",
+  
+        recipeImage: "https://www.allrecipes.com/thmb/_VsSpI8beY4Fw74VoWFk8NxgWS8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-143315-heathers-cilantro-black-bean-and-corn-salsa-step-2-8ad4a54eae054106a7d745fe47470ce0.jpg",
+        recipeId: "miscellaneous_1",
+        recipeCategory: "Miscellaneous",
+        recipeOrigin: "Russian",
+        cookingDescription: " This recipe for black bean and corn salsa is perfect for your next cookout. Use it as a colorful dip for tortilla chips or pop a heaping spoonful of it on top of grilled chicken or a baked potato!",
+        recipeTags: "Beans",
+        ingredients: [
+          {
+            ingredientName: " bell pepper, (orange or red)",
+            measure: " 1"
+          },
+          {
+            ingredientName: "cherry tomatoes",
+            measure: "1 cup"
+          },
+          {
+            ingredientName: "corn on the cobs",
+            measure: ""
+          },
+           {
+            ingredientName: " olive oil",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "5",
+        idFood:'23',
+        recipeInstructions:"Cut into Triangles. Start by cutting each tortilla into triangles. Cut them into similar sized triangles for even cooking.",
+        category:'Miscellaneous',
+        recipeName: "Air Fryer Tortilla Chips",
+  
+        recipeImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtOoULldbOALPrILIEwCYcyvCInoQvbR0xw&s",
+        recipeId: "miscelloneous_2",
+        recipeCategory: "Miscelloneous",
+        recipeOrigin: "USA",
+        cookingDescription: " This recipe for black bean and corn salsa is perfect for your next cookout. Use it as a colorful dip for tortilla chips or pop a heaping spoonful of it on top of grilled chicken or a baked potato!",
+        recipeTags: "chips",
+        ingredients: [
+          {
+            ingredientName: " corn tortillas",
+            measure: " 12"
+          },
+          {
+            ingredientName: "cherry tomatoes",
+            measure: "1 cup"
+          },
+          {
+            ingredientName: " avocado oil",
+            measure: "250ml"
+          },
+           {
+            ingredientName: " olive oil",
+            measure: "50ml"
+          }
+        ],
+      },
+      {
+        idCategory: "5",
+        idFood:'24',
+        recipeInstructions:"Preheat the oven to 250°F. Lightly grease two large rimmed baking sheets; or line them with parchment.In a very large bowl, combine the oats, coconut, wheat germ, nuts, and seeds. Mix well.In a separate bowl, whisk together the oil, salt, maple syrup, and vanilla.Pour the wet ingredients over the dry mixture in the bowl, stirring and tossing until everything is very well combined.",
+        category:'Miscellaneous',
+        recipeName: "Crunchy Granola",
+  
+        recipeImage: "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image_2x/public/recipe_legacy/5739-3-large.jpg?itok=DPxf8yte",
+        recipeId: "miscelloneous_3",
+        recipeCategory: "Miscelloneous",
+        recipeOrigin: "England",
+        cookingDescription: " What a pleasure, to start your day with a tummy-filling bowl of delicious whole-grain granola! And it's easy to make your own. Just stir together everything but the dried fruit, and bake until crunchy. Add your favorite fruits once it's cool.",
+        recipeTags: "sliced",
+        ingredients: [
+          {
+            ingredientName: "rolled oats",
+            measure: "7 cups"
+          },
+          {
+            ingredientName: "large-flake coconut, unsweetened",
+            measure: "1 cup"
+          },
+          {
+            ingredientName: "almonds, sliced",
+            measure: "250ml"
+          },
+           {
+            ingredientName: " olive oil",
+            measure: "50ml"
+          }
+        ],
+      },
+      {
+        idCategory: "6",
+        idFood:'25',
+        recipeInstructions:" Bring large pot of water to the boil - 4 to 5 litres / quarts. Add salt then add pasta. Cook per packet directions.Drain pasta then cool.Meanwhile, mix Dressing ingredients in a bowl.Place pasta in a bowl. Add remaining Macaroni Salad ingredients. Pour over Dressing.",
+        category:'Pasta',
+        recipeName: "Macaroni Salad",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2017/12/Macaroni-Salad_2.jpg?resize=1200%2C1680&zoom=0.67",
+        recipeId: "pasta_1",
+        recipeCategory: "Pasta",
+        recipeOrigin: "Italian",
+        cookingDescription: " Macaroni Salad makes a terrific summertime lunch and is made for taking to gatherings. Simple to prepare and as diverse as you want it to be, this is a great classic pasta salad. ",
+        recipeTags: "Macaroni",
+        ingredients: [
+          {
+            ingredientName: "macaroni elbow pasta",
+            measure: " "
+          },
+          {
+            ingredientName: " red capsicum / bell peppers ",
+            measure: ""
+          },
+          {
+            ingredientName: "yoghurt or sour cream",
+            measure: ""
+          },
+           {
+            ingredientName: " Dijon mustard",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "6",
+        idFood:'26',
+        recipeInstructions:"Peel and devein the prawns, keeping the tails in tact. (Note 1)Discard the vein and place the heads and shells in a saucepan or pot to make the stock. (Note 2)Add 2 minced garlic cloves the minced garlic and 2 tbsp of olive oil. Use your fingers to gently coat the prawns. Cover and set aside to marinate while you make the stock.Add the remaining stock ingredients into the saucepan/pot and place over high heat. Bring to boil then turn down to medium / medium high and let it simmer rapidly.Get a potato masher and  the prawn heads and shells (to extract maximum flavour). Do this a couple of times while it is simmering.",
+        category:'Pasta',
+        recipeName: "Shrimp / Prawn Pasta with Lemon",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2014/12/Lemon-Prawn-Shrimp-Pasta.jpg?resize=680%2C1024&zoom=0.95",
+        recipeId: "pasta_2",
+        recipeCategory: "Pasta",
+        recipeOrigin: "Italian",
+        cookingDescription: " using the prawn heads and shells to make a quick stock, you can make a pasta that is a step up from the usual. It’s not a full blown fish stock, just a quick one made using the prawn heads and shells. And it doesn’t taste fishy at all. I would describe it as sweet with a deep flavour. In fact, it’s actually quite hard to pick why the pasta tastes so good, you just know it does!",
+        recipeTags: "Macaroni, shrimp",
+        ingredients: [
+          {
+            ingredientName: " cherry tomatoes",
+            measure: " 4"
+          },
+          {
+            ingredientName: " large , raw, unpeeled prawns/shrimp ",
+            measure: "500g"
+          },
+          {
+            ingredientName: "chicken or fish stock/broth",
+            measure: "1cup"
+          },
+           {
+            ingredientName: " spaghetti",
+            measure: "500g"
+          },
+          {
+            ingredientName: " white wine",
+            measure: "1cup"
+          },
+        ],
+      },
+      {
+        idCategory: "6",
+        idFood:'27',
+        recipeInstructions:"Cook pasta according to packet directions minus 1 minute. Drain in a colander and rinse under cold water to stop it cooking further. Shake excess water off well then transfer into large bowl.Place remaining Pasta Salad ingredients in the bowl. Drizzle over Dressing and toss. Serve at room temperature.SCOOP OUT a mug of pasta cooking water just before draining. Add 3 tbsp water to Dressing, shake well. Use this Dressing per above, but reserve 3 tbsp to freshen up pasta salad on Day 2 onwards.",
+        category:'Pasta',
+        recipeName: "Italian Pasta Salad ",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2017/03/Italian-Pasta-Salad-5.jpg?resize=1200%2C1680&zoom=0.67",
+        recipeId: "pasta_3",
+        recipeCategory: "Pasta",
+        recipeOrigin: "Italian",
+        cookingDescription: "This is a cold pasta salad recipe to be served at room temperature or slightly chilled which makes it ideal to make ahead for midweek meals, taking to gatherings, work lunches and buffet spreads.",
+        recipeTags: "Pasta",
+        ingredients: [
+          {
+            ingredientName: " cherry tomatoes",
+            measure: " 4"
+          },
+          {
+            ingredientName: "spiral pasta, or other pasta of choice",
+            measure: "500g"
+          },
+          {
+            ingredientName: "thick sliced salami, cut into 2.5cm/1",
+            measure: "1cup"
+          },
+           {
+            ingredientName: " spaghetti",
+            measure: "500g"
+          },
+          {
+            ingredientName: " white wine",
+            measure: "1cup"
+          },
+        ],
+      },
+      {
+        idCategory: "7",
+        idFood:'28',
+        recipeInstructions:"Cut pork – Cut into 8 equal, thinnish slices of pork. I find it easiest using the knife on a 45° angle, but if you have the right shape piece you can just cut straight down.Pound each steak to 5mm / 0.2 thickness using the scary side of a meat mallet jagged not flat using go-between Note 5 or a freezer bag to avoid damaging the meat.You can use baking paper for rolling pin or the flat side of the malle Marinade Mix the marinade ingredients in a bowl, it will fizz when the baking soda is added! Add pork then toss well to coat using tongs Transfer to a ziplock bag and marinate for 24 hours ",
+        category:'Pork',
+        recipeName: "Vietnamese Lemongrass Pork steaks",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2023/04/Vietnamese-noodles-lemongrass-pork-1.jpg?resize=900%2C1125&zoom=0.72",
+        recipeId: "pork_1",
+        recipeCategory: "Pork",
+        recipeOrigin: "Vietnamese",
+        cookingDescription: "Pound to 5mm / 0.2″ thickness thick using a meat mallet (the jagged side) or rolling pin. Cover with go-between or freezer bags to prevent damaging the meat. (Go-between is a purpose made plastic sheet, sold alongside cling wrap. Also useful for stacking foods in the freezer without sticking together). ",
+        recipeTags: "Pork",
+        ingredients: [
+          {
+            ingredientName: "pork shoulder , skinless and boneless, or pork scotch (roast or steaks) ",
+            measure: " 500g"
+          },
+          {
+            ingredientName: "canola oil",
+            measure: ""
+          },
+          {
+            ingredientName: "▢2 lemongrass stalks , white part only, bruised, cut into 1 cm / 0.4″ slices on angle ",
+            measure: ""
+          },
+           {
+            ingredientName: " baking soda/bi-carb",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "7",
+        idFood:'29',
+        recipeInstructions:"Combine the Pork Carnitas, corn, black beans, capsicum and 1 1/2 cups of enchilada sauce in a bowl. Mix to combine.Line the baking dish with tortillas. I find the best way to do this is to cut the tortillas in half, place 2 on the baking dish (with the straight cut side lined to the edge of the baking dish), then cut 1 tortilla into 6 to 8 pieces and use those wedges to fill the gaps.Top with a third and final layer of tortillas. Spread remaining enchilada sauce (3/4 cup) across the top, then sprinkle with mozzarella cheese. Bake for 20 to 25 minutes until the cheese is melted and started to turn golden. ",
+        category:'Pork',
+        recipeName: "Mexican Lasagna Enchilada Stack",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2014/09/DSC_0057-1.jpg?resize=206%2C206&zoom=1.51",
+        recipeId: "pork_2",
+        recipeCategory: "Pork",
+        recipeOrigin: "Mexican",
+        cookingDescription: "  Pork Carnitas (Mexican Pulled Pork) which is already seasoned, all that’s required is to mix it up with enchilada sauce, capsicum, corn and beans, ",
+        recipeTags: "Pork, Lasagna",
+        ingredients: [
+          {
+            ingredientName: "5 - 6 tortillas",
+            measure: " "
+          },
+          {
+            ingredientName: "shredded Pork Carnitas",
+            measure: "2 cups"
+          },
+          {
+            ingredientName: " corn",
+            measure: ""
+          },
+           {
+            ingredientName: " black beans",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "7",
+        idFood:'30',
+        recipeInstructions:"Combine the Pork Carnitas, corn, black beans, capsicum and 1 1/2 cups of enchilada sauce in a bowl. Mix to combine.Line the baking dish with tortillas. I find the best way to do this is to cut the tortillas in half, place 2 on the baking dish (with the straight cut side lined to the edge of the baking dish), then cut 1 tortilla into 6 to 8 pieces and use those wedges to fill the gaps.Top with a third and final layer of tortillas. Spread remaining enchilada sauce (3/4 cup) across the top, then sprinkle with mozzarella cheese. Bake for 20 to 25 minutes until the cheese is melted and started to turn golden. ",
+        category:'Pork',
+        recipeName: "Slow-Roasted Pork & Peppers",
+  
+        recipeImage: "https://hips.hearstapps.com/hmg-prod/images/slow-roasted-pork-and-peppers1-1661979341.jpg?crop=0.448xw:1.00xh;0.331xw,0&resize=980:*",
+        recipeId: "pork_3",
+        recipeCategory: "Pork",
+        recipeOrigin: "Mexican",
+        cookingDescription: " There's very little prep for this simple dinner—it's just a matter of halving bell peppers and cutting onions into wedges, then the oven does the rest of the work, transforming the boneless pork shoulder into meltingly tender meat.",
+        recipeTags: "Pork, Lasagna",
+        ingredients: [
+          {
+            ingredientName: "boneless pork shoulder",
+            measure: " "
+          },
+          {
+            ingredientName: "2 red onions, cut into 8 wedges each",
+            measure: "2 cups"
+          },
+          {
+            ingredientName: " red, yellow, or orange bell peppers",
+            measure: ""
+          },
+           {
+            ingredientName: "fennel seed, choppedKosher sal    Freshly ground black pepper",
+           measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "8",
+        idFood:'31',
+        recipeInstructions:" Place a large non-stick pan on a medium-high heat with 1 tablespoon of olive oil. Add the garlic, chilli and 1 tablespoon of baby capers, cook for 1 minute, then add the clams and mussels. Cook for a couple of minutes, then add the squid, scallops, lemon zest and parsley, and give it a good stirScrunch in 1 x 400g tin of plum tomatoes through your clean hands, bring to the boil, then reduce the heat and simmer for 2 minutes to let the flavours mingle, stirring regularly and breaking up the tomatoes.",
+        category:'Seafood',
+        recipeName: "seafood pasta",
+  
+        recipeImage: "https://asset.jamieoliver.com/images/cq7w2e71/production/ac61bb0979794c561e01079658f2d7a5c2e722f4-958x1280.jpg/134449920?rect=0,2,958,1277&w=1920&h=2560&fm=webp&q=80&fit=crop&auto=format",
+        recipeId: "seafood_1",
+        recipeCategory: "Seafood",
+        recipeOrigin: "Spain",
+        cookingDescription: " Cook 300g of dried linguine in a large pan of boiling salted water according to the packet instructions, then drain, reserving a mugful of starchy water.",
+        recipeTags: "seafood",
+        ingredients: [
+          {
+            ingredientName: "squid, gutted, cleaned, from sustainable sources",
+            measure: "250g "
+          },
+          {
+            ingredientName: "mussels, scrubbed, debearded, from sustainable sources ",
+            measure: "250g"
+          },
+          {
+            ingredientName: " dried linguine",
+            measure: "3000g"
+          },
+           {
+            ingredientName: " Parmesan cheese",
+            measure: "20g"
+          }
+        ],
+      },
+      {
+        idCategory: "8",
+        idFood:'32',
+        recipeInstructions:"Preheat the grill to high. Slice the bread 1cm thick, then cut into 3cm chunks and place in a large bowl with the prawns. Drain the peppers, slice 3cm thick lengthways, and add to the bowl. Peel the garlic. Finely chop 1 clove and add to the bowl, then finely slice the other 2 and put aside. Finely chop the parsley, stalks and all, and add to the mix. Finely grate in the lemon zest, squeeze in half the juice, add 1 tablespoon of olive oil and a pinch of black pepper, and mix well. Take pride in skewering up the prawns and bread on 2 skewers, interlacing with the peppers, and don’t pack it all on too tightly. Sit each skewer across a roasting tray and grill for 6 to 8 minutes, turning halfway – keep an eye on them! Meanwhile, put a non-stick frying pan on a medium heat with ½ a tablespoon of olive oil and the sliced garlic. Stir regularly for 2 minutes, or until lightly golden, then pour in the tinned tomatoes to bubble away until the skewers are ready, squashing a few with the back of your spoon. Add a squeeze of lemon juice, then season the sauce to perfection. Serve the kebabs on top of the sauce, sprinkled with feta and black pepper, then finish with 1 teaspoon of extra virgin olive oil. ",
+        category:'Seafood',
+        recipeName: "Garlic prawn kebabs",
+  
+        recipeImage: "https://asset.jamieoliver.com/images/cq7w2e71/production/31b0f2c1f6f4fd40299223ebb8ae3b3cb968f870-958x1280.jpg/109386576?rect=0,2,958,1277&w=1920&h=2560&fm=webp&q=80&fit=crop&auto=format",
+        recipeId: "seafood_2",
+        recipeCategory: "Seafood",
+        recipeOrigin: "Spain",
+        cookingDescription: " Delicious Spanish-inspired garlic prawn kebabs with roasted peppers, served over a rich tomato sauce and topped with feta.",
+        recipeTags: "seafood",
+        ingredients: [
+            {
+                "ingredientName": "large raw prawns, peeled and deveined",
+                "measure": "250g"
+              },
+              {
+                "ingredientName": "crusty bread (like ciabatta or baguette)",
+                "measure": "100g"
+              },
+              {
+                "ingredientName": "roasted red peppers, drained",
+                "measure": "1 jar (about 200g)"
+              },
+              {
+                "ingredientName": "garlic cloves",
+                "measure": "3 cloves"
+              },
+              {
+                "ingredientName": "fresh parsley",
+                "measure": "1 small bunch"
+              },
+              {
+                "ingredientName": "lemon, zest and juice",
+                "measure": "1"
+              },
+              {
+                "ingredientName": "olive oil",
+                "measure": "1.5 tablespoons"
+              },
+              {
+                "ingredientName": "black pepper",
+                "measure": "to taste"
+              },
+              {
+                "ingredientName": "tinned tomatoes",
+                "measure": "1 can (400g)"
+              },
+              {
+                "ingredientName": "feta cheese",
+                "measure": "50g"
+              },
+              {
+                "ingredientName": "extra virgin olive oil",
+                "measure": "1 teaspoon"
+              }
+        ],
+      },
+      {
+        idCategory: "9",
+        idFood:'33',
+        recipeInstructions:"Toss the raw mushrooms with olive oil first. Then add the minced and whole garlic cloves, thyme, salt and pepper. Toss again.Use a large roasting pan – easier for tossing than a baking tray. The mushrooms can be very, very snug in a single layer. They will shrink about 30%.Roast for 35 minutes at 200°C/400°F (180°C fan-forced), tossing during the halfway mark, until browned and soft but still juicy inside. Don’t roast them for so long that they become shrivelled and sad!Marinade – Immediately pour all the mushrooms and juices in the pan into a large bowl. Then add the balsamic vinegar and more olive oil, then toss, toss, toss!Marinate – Leave the bowl uncovered (we don’t want condensation diluting the flavour!) and let the mushrooms marinate as they cool, tossing once (or twice or three times!). It will take about 2 hours to come to room temperature and that’s enough time for the mushrooms to absorb sufficient flavour to serve / start picking at for a “taste test”.😈However, if you have the time, refrigerate and leave them overnight! They will absorb even more flavour.Serve at room temperature or slightly warm for maximum appreciation of flavour! It really brings out the garlic and thyme flavour when slightly warmed. ",
+        category:'Side',
+        recipeName: "Balsamic marinated mushrooms",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2023/07/Balsamic-marinated-mushrooms_8.jpg?resize=900%2C1125&zoom=0.72",
+        recipeId: "side_1",
+        recipeCategory: "Side",
+        recipeOrigin: "Turkiye",
+        cookingDescription: " use smaller mushrooms around 3 – 3.5cm wide (1.2 – 1.4″) so I can keep them whole for maximum effect of biting into a juicy mushroom.",
+        recipeTags: "Mushrooms",
+        ingredients: [
+          {
+            ingredientName: " small whole white mushrooms ",
+            measure: " 700g"
+          },
+          {
+            ingredientName: "extra virgin olive oil",
+            measure: "3tbsp"
+          },
+          {
+            ingredientName: " cooking/kosher salt",
+            measure: "2tbsp"
+          },
+           {
+            ingredientName: " garlic cloves",
+            measure: "4"
+          }
+        ],
+      },
+      {
+        idCategory: "9",
+        idFood:'34',
+        recipeInstructions:"Cook eggplant: Heat 2 tbsp oil in a large skillet over medium high heat. Add eggplant and cook for 4 to 5 minutes, stirring regularly, until it's golden on the surface but still somewhat firm and raw inside. Transfer to a large pot.Cook onion and garlic: In the same skillet, add another 1 tbsp olive oil. Add onion and garlic with a pinch of the salt. Cook for 3 minutes until onion is soft with a hint of golden on the edges. Add to pot holding eggplant.Cook capsicum: Add another 1 tbsp of olive oil and cook the capsicum with a pinch of salt for 3 minutes. It should still be firm inside. You won't get much colour on the capsicum, this is OK. Add to pot.Cook zucchini: Add another 1 tbsp olive oil and cook the zucchini with a pinch of salt for 3 minutes. Make sure it stays firm (ie. raw inside). Like the capsicum, it won't go golden. Add to pot.Add remaining ingredients to pot: Turn the stove under the pot to medium-high. Add tomato, thyme, olives, remaining salt and all the pepper, and mix. Once the mixture is hot, reduce heat to a low simmer.Braise: Cook for 20 – 25 minutes with the pot lid off, stirring every now and then, until all the vegetables are cooked through and the liquid has reduced. The mixture should be thick enough so you can pile it on a plate (ie. not watery), but still very moist and juicy.Basil and salt: Taste and add more salt if needed; vegetables can taste bland if not enough salt is added. Stir through basil then serve immediately, drizzled with extra virgin olive oil and a sprinkle of extra basil on top, if desired. Serve as a main with crusty bread, or as a side dish. See above recipe card for more ideas! ",
+        category:'Side',
+        recipeName: "Ratatouille – French Vegetable Stew",
+  
+        recipeImage: "https://www.recipetineats.com/tachyon/2021/04/Ratatouille_0.jpg?resize=900%2C1260&zoom=0.72",
+        recipeId: "side_2",
+        recipeCategory: "Side",
+        recipeOrigin: "french",
+        cookingDescription: " Ratatouille is one of those fabulous dishes that can be served either as a main or side dish. It also happily keeps for days, being meat and dairy-free. In fact, the pictured Ratatouille was consumed by me over the course of 5 days in various forms",
+        recipeTags: "stew",
+        ingredients: [
+          {
+            ingredientName: " eggplant (aubergine) , cut into 2cm ",
+            measure: " "
+          },
+          {
+            ingredientName: " tomatoes",
+            measure: "3"
+          },
+          {
+            ingredientName: " extra virgin olive oil",
+            measure: "6tbsp"
+          },
+           {
+            ingredientName: " capsicum (1 red, 1 yellow),",
+            measure: ""
+          },
+          {
+            ingredientName: " zucchinis (courgettes)",
+            measure: ""
+          },
+          {
+            ingredientName: "fresh thyme leaves ",
+            measure: ""
+          },
+        ],
+      },
+      {
+        idCategory: "10",
+        idFood:'35',
+        recipeInstructions:" step 1 To make the dressing, whisk all the ingredients together in a bowl and set aside.step 2 Toss the tomatoes and melon together in a bowl with a little dressing, some sea salt and black pepper. Loosely lay the prosciutto over a platter and pile the tomatoes and melon on top. Drizzle with extra dressing, scatter with mint and serve straight away with crusty bread.",
+        category:'Starter',
+        recipeName: "Minted melon, tomato & prosciutto salad",
+  
+        recipeImage: "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/minted-melon-tomato-prosciutto-salad-b425152.jpg?quality=90&webp=true&resize=375,341",
+        recipeId: "starter_1",
+        recipeCategory: "Starter",
+        recipeOrigin: "germany",
+        cookingDescription: "Quality produce makes this dish, Charentais melon, heirloom tomatoes and salty prosciutto marry beautifully. Ideal as a sharing platter starter for a summer dinner party ",
+        recipeTags: "Vegan",
+        ingredients: [
+          {
+            ingredientName: "different-coloured heirloom tomatoes",
+            measure: " 500g"
+          },
+          {
+            ingredientName: "Charentais melon",
+            measure: ""
+          },
+          {
+            ingredientName: " slices prosciutto",
+            measure: "12"
+          },
+           {
+            ingredientName: " olive oil",
+            measure: "3tbsp"
+          }
+        ],
+      },
+      {
+        idCategory: "10",
+        idFood:'36',
+        recipeInstructions:"Bring the stock to a simmer over a low heat.Peel and finely slice the onions and garlic. Melt a good knob of butter with 2 tablespoons of olive oil in a large ovenproof casserole pan over a medium-high heat. Stir in the garlic, then tip in the onions, season well with sea salt and black pepper, stir, then turn the heat up slightly.Tie the herbs together with a length of string to make a bouquet garni, then add to the pan, tying the end of the string to the pan’s handle so you can easily fish it out later.Turn the heat down to medium. Make a cartouche with a piece of greaseproof paper and place directly onto the onions. Cook the onions for 40 minutes, or until soft, sticky and caramelised, removing the cartouche halfway through and stirring occasionally.Pour in the IPA to deglaze the pan, using a wooden spoon to scrape up all the nice sticky bits, then let it bubble away and pour in the hot stock. Bring to the boil, then turn the heat down and simmer for 5 to 10 minutes. Remove the bouquet garni.Preheat the grill to maximum. Toast your bread on both sides, then spread one side with a knob of butter and mustard. Slice, grate or crumble the cheeses, then divide up and use to generously top the toasts, then cut them into large pieces and place them in one layer directly onto the soup, pushing them down slightly to allow them to soak up the soup. Grate over a little extra cheese, and finish with a shake of Worcestershire sauce.Place the pan under the grill for 5 to 10 minutes until the cheese is melted, bubbling and golden, and the bread is crispy and delicious – keep an eye on it to make sure it doesn’t burn! Divide between bowls and enjoy with a drizzle of extra virgin olive oil. ",
+        category:'Starter',
+        recipeName: "Cheesy onion soup",
+  
+        recipeImage: "https://asset.jamieoliver.com/images/cq7w2e71/production/b4472991cb98c4c6d7a92cdc9eb7cc6857f830e6-958x1280.jpg/159996238?rect=0,2,958,1277&w=1920&h=2560&fm=webp&q=80&fit=crop&auto=format",
+        recipeId: "starter_2",
+        recipeCategory: "Starter",
+        recipeOrigin: "british",
+        cookingDescription: "Bring the stock to a simmer over a low heat. Peel and finely slice the onions and garlic. Melt a good knob of butter with 2 tablespoons of olive oil in a large ovenproof casserole pan  ",
+        recipeTags: "Vegan",
+        ingredients: [
+          {
+            ingredientName: "quality organic chicken, beef, or vegetable stock",
+            measure: "2.5 litres "
+          },
+          {
+            ingredientName: " mixed-colour onions",
+            measure: "2kg"
+          },
+          {
+            ingredientName: "bunch of mixed herbs, such as sage, thyme, rosemary, bay",
+            measure: "20g"
+          },
+           {
+            ingredientName: " olive oil",
+            measure: "3tbsp"
+          }
+        ],
+      },
+      {
+        idCategory: "11",
+        idFood:'37',
+        recipeInstructions:"step 1 Heat 1 tbsp sesame oil in a wide-based pan with a tight-fitting lid.step 2 Add 1 finely chopped red onion and cook over a low heat for 10 mins, stirring occasionally, until softened. step 3 Add 1 crushed garlic clove, a finely chopped thumb-sized piece of ginger and 1 finely chopped red chilli, cook for 1 min, then add 1½ tsp ground turmeric and 1½ tsp ground cumin and cook for 1 min more.step 4 Turn up the heat to medium, add 2 sweet potatoes, cut into even chunks, and stir everything together so the potato is coated in the spice mixture.step 5 Tip in 250g red split lentils, 600ml vegetable stock and some seasoning.step 6 Bring the liquid to the boil, then reduce the heat, cover and cook for 20 mins until the lentils are tender and the potato is just holding its shape.step 7 Taste and adjust the seasoning, then gently stir in the 80g spinach. Once wilted, top with the 4 diagonally sliced spring onions and ½ small pack torn basil leaves to serve.step 8 Alternatively, allow to cool completely, then divide between airtight containers and store in the fridge for a healthy lunchbox. ",
+        category:'Vegan',
+        recipeName: "Spinach, sweet potato & lentil dhal",
+  
+        recipeImage: "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/spinach-sweet-potato-and-lentil-dhal-be8fae5.jpg?quality=90&webp=true&resize=375,341",
+        recipeId: "vegan_1",
+        recipeCategory: "Vegan",
+        recipeOrigin: "Spanish",
+        cookingDescription: " A comforting vegan one-pot recipe that counts for 3 of your 5-a-day! You can't go wrong with this iron-rich, low-fat, low-calorie supper",
+        recipeTags: "vegan",
+        ingredients: [
+          {
+            ingredientName: "sesame oil",
+            measure: " "
+          },
+          {
+            ingredientName: "red onion",
+            measure: ""
+          },
+          {
+            ingredientName: "ground turmeric",
+            measure: "1½ tsp"
+          },
+           {
+            ingredientName: "thumb-sized piece ginger",
+            measure: ""
+          }
+        ],
+      },
+      {
+        idCategory: "11",
+        idFood:'38',
+        recipeInstructions:"step 1 Heat 1 tbsp sesame oil in a wide-based pan with a tight-fitting lid.step 2 Add 1 finely chopped red onion and cook over a low heat for 10 mins, stirring occasionally, until softened. step 3 Add 1 crushed garlic clove, a finely chopped thumb-sized piece of ginger and 1 finely chopped red chilli, cook for 1 min, then add 1½ tsp ground turmeric and 1½ tsp ground cumin and cook for 1 min more.step 4 Turn up the heat to medium, add 2 sweet potatoes, cut into even chunks, and stir everything together so the potato is coated in the spice mixture.step 5 Tip in 250g red split lentils, 600ml vegetable stock and some seasoning.step 6 Bring the liquid to the boil, then reduce the heat, cover and cook for 20 mins until the lentils are tender and the potato is just holding its shape.step 7 Taste and adjust the seasoning, then gently stir in the 80g spinach. Once wilted, top with the 4 diagonally sliced spring onions and ½ small pack torn basil leaves to serve.step 8 Alternatively, allow to cool completely, then divide between airtight containers and store in the fridge for a healthy lunchbox. ",
+        category:'Vegan',
+        recipeName: "Roasted aubergine & tomato curry",
+  
+        recipeImage: "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/roasted-aubergine-tomato-curry-cec6925.jpg?quality=90&webp=true&resize=375,341",
+        recipeId: "vegan_2",
+        recipeCategory: "Vegan",
+        recipeOrigin: "Mongolian",
+        cookingDescription: " A comforting vegan one-pot recipe that counts for 3 of your 5-a-day! You can't go wrong with this iron-rich, low-fat, low-calorie supper",
+        recipeTags: "vegan",
+        ingredients: [
+          {
+            ingredientName: " aubergine, or baby aubergines",
+            measure: "600g "
+          },
+          {
+            ingredientName: "red onion",
+            measure: ""
+          },
+          {
+            ingredientName: "coconut milk",
+            measure: "500ml"
+          },
+           {
+            ingredientName: "thumb-sized piece ginger",
+            measure: ""
+          }
+        ],
+      },
   ]);
 
   const handleChangeCategory = (category) => {
